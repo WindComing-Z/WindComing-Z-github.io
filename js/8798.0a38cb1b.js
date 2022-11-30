@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkpreject_"]=self["webpackChunkpreject_"]||[]).push([[8798],{8798:function(e,p,c){e.exports=c.p+"img/like_01.2dc17983.png"}}]);

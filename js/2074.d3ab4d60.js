@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkpreject_"]=self["webpackChunkpreject_"]||[]).push([[2074],{2074:function(e,p,c){e.exports=c.p+"img/mobile05.81da4da6.png"}}]);

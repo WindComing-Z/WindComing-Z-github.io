@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkpreject_"]=self["webpackChunkpreject_"]||[]).push([[5128],{5128:function(e,p,c){e.exports=c.p+"img/goods1.98eca820.png"}}]);
